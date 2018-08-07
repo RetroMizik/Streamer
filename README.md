@@ -7,7 +7,7 @@
 
  Description of the **features that will be ready**
 
-* [ ] User can sign in with their Google or facebook Account
+* [ ] User can sign in with their Google or facebook AccountOver
 * [ ] User can add/upload musics
 * [ ] User can search for music by entering the query in a searchBox
 * [ ] User can search for music by category
@@ -30,6 +30,11 @@ Description of the **features we have planned to offer later**
 * [ ] You must connect to the internet
 * [ ] You must create an account to add/upload musics
 * [ ] Allow RetroMizik to access media and files on your device
+
+## Overview
+<img src='https://github.com/RetroMizik/Streamer/blob/master/frame.gif' title='Frame' width='' alt='Frame' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
